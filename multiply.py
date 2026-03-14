@@ -1,2 +1,2 @@
 def mul():
-    print("This is multiply function.")
+    print("This is multiplication function.")
